@@ -1,10 +1,11 @@
 ### Hi there 👋
-I am full stack engineer who is passionate about making application that makes people's day to day easier. I enjoy working on the backend, and I am interested in machine learning. 
+I am full stack engineer who is passionate about making application that makes people's day to day easier. Strong interest in backend engineering and machine learning. 
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaushaltheeG&count_private=true&include_all_commits=true&show_icons=true&theme=material-palenight&show_icons=true"/>
-
-
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaushaltheeG&count_private=true&include_all_commits=true&show_icons=true&theme=material-palenight&show_icons=true"/>   
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushaltheeG&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
+    
 <!--
 **kaushaltheeG/kaushaltheeG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
