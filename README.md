@@ -1,10 +1,20 @@
-### Hi there 👋
-I am full stack engineer who is passionate about making application that makes people's day to day easier. Strong interest in backend engineering and machine learning. 
+<!--  TODO: ADD more style or GIFs :>) -->
 
+<h1 align='center'>Welcome <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Kaushal!</h1> 
+<p align='center'>
+  I am currently a full stack sowftware engineer 💻 🖱️ 
+  I enjoy learning new & current technologies 👨‍💻 🤘
+  <br />
+  I enjoy backend engineering 🔙 🔚 and interested in machine learning 🧑‍🏫 🤖 
+    <br />
+  Currently exploring iOS Development 📱  🍎
+</p>
 
-  <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaushaltheeG&count_private=true&include_all_commits=true&show_icons=true&theme=material-palenight&show_icons=true"/>   
-  <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushaltheeG&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=material-palenigh" />
+   <hr />
+<p align='center'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaushaltheeG&count_private=true&include_all_commits=true&theme=buefy&show_icons=true&hide_border=true&bg_color=transparent"/>   
+
+   <img height="195px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushaltheeG&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=10&theme=buefy" />
   </p>
     
 <!--
