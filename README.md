@@ -14,7 +14,7 @@
 <p align='center'>
   <img height="30%" width="auto" align="center" src="https://github-readme-stats.vercel.app/api?username=kaushaltheeG&count_private=true&include_all_commits=false&hide=issues&theme=buefy&show_icons=true&hide_border=true&bg_color=00000000&custom_title=GitHub%20Stats"/>   
 
-   <img height="70%" width="auto" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushaltheeG&hide=html,css,scss&hide_border=true&layout=compact&langs_count=10&theme=buefy&bg_color=00000000" />
+   <img height="70%" width="auto" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushaltheeG&hide=html,css,scss,shell&hide_border=true&layout=compact&langs_count=10&theme=buefy&bg_color=00000000" />
   </p>
     
 <!--
