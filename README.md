@@ -2,12 +2,10 @@
 
 <h1 align='center'>Welcome <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Kaushal!</h1> 
 <p align='center'>
-  I am currently a full stack software engineer 💻 🖱️ 
-  I enjoy learning new & current technologies 👨‍💻 🤘
+  📱 I am currently a full stack software engineer 👨‍💻
   <br />
-  I enjoy backend engineering 🔙 🔚 and interested in machine learning 🧑‍🏫 🤖 
+  🤖 But I enjoy learning about different types of software development & tech 🤘  
     <br />
-  Currently exploring iOS Development 📱  🍎
 </p>
 
    <hr />
